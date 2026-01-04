@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://taller-ads.github.io/Taller-de-Ads/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://taller-ads.github.io/Taller-de-Ads/</loc>
+</url>
+<url>
+<loc>https://taller-ads.github.io/Taller-de-Ads/la-importancia-de-entender-los-kpis-en-una-campaa-de-publicidad-en-line/</loc>
+<lastmod>2026-01-01T21:23:22-05:00</lastmod>
+<image:image>
+<image:loc>https://taller-ads.github.io/Taller-de-Ads/media/posts/2/KPis.gif</image:loc>
+<image:title><![CDATA[KPI´s - la importancia de entender los KPI´s en las campañas digitales]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://taller-ads.github.io/Taller-de-Ads/taller-de-ads-noticias-de-desarrollo/</loc>
+<lastmod>2026-01-01T22:43:16-05:00</lastmod>
+<image:image>
+<image:loc>https://taller-ads.github.io/Taller-de-Ads/media/posts/3/Eventos.gif</image:loc>
+<image:title><![CDATA[KPI´s en 2026]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://taller-ads.github.io/Taller-de-Ads/media/posts/3/Primer-noticia-2.gif</image:loc>
+<image:title><![CDATA[KPI´s en el mundo digital]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://taller-ads.github.io/Taller-de-Ads/terminos-y-condiciones/</loc>
+<lastmod>2026-01-03T14:27:24-05:00</lastmod>
+<image:image>
+<image:loc>https://taller-ads.github.io/Taller-de-Ads/media/posts/4/Terminos-y-Servicios.gif</image:loc>
+<image:title><![CDATA[Taller de Ads Términos y Condiciones de Uso]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://taller-ads.github.io/Taller-de-Ads/terminos-y-condiciones/otro-pagina/</loc>
+</url>
+<url>
+<loc>https://taller-ads.github.io/Taller-de-Ads/terminos-y-condiciones/otro-pagina/pagina-numero-3/</loc>
+</url>
+<url>
+<loc>https://taller-ads.github.io/Taller-de-Ads/terminos-y-condiciones/otro-pagina/pagina-numero-4/</loc>
+</url>
+</urlset>

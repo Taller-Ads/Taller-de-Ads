@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Taller de Ads</title>
+    <link href="https://taller-ads.github.io/Taller-de-Ads/feed.xml" rel="self" />
+    <link href="https://taller-ads.github.io/Taller-de-Ads" />
+    <updated>2026-01-01T22:43:16-05:00</updated>
+    <author>
+        <name>Ricardo Castillo</name>
+    </author>
+    <id>https://taller-ads.github.io/Taller-de-Ads</id>
+
+    <entry>
+        <title>Taller de Ads Noticias de Desarrollo</title>
+        <author>
+            <name>Ricardo Castillo</name>
+        </author>
+        <link href="https://taller-ads.github.io/Taller-de-Ads/taller-de-ads-noticias-de-desarrollo/"/>
+        <id>https://taller-ads.github.io/Taller-de-Ads/taller-de-ads-noticias-de-desarrollo/</id>
+        <media:content url="https://taller-ads.github.io/Taller-de-Ads/media/posts/3/Eventos.gif" medium="image" />
+            <category term="Noticias"/>
+            <category term="Eventos"/>
+
+        <updated>2026-01-01T21:33:49-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://taller-ads.github.io/Taller-de-Ads/media/posts/3/Eventos.gif" alt="KPI´s en 2026" />
+                    Taller de KPI´s Motor de búsqueda de Google&nbsp; Aquí aprenderás más acerca de los KPI´s y como estos son utilizados en la vida de los mercadólogos para mejorar sus campañas de publicidad en línea.&nbsp; Los KPIs (Key Performance Indicators o Indicadores Clave de Desempeño) son&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://taller-ads.github.io/Taller-de-Ads/media/posts/3/Eventos.gif" class="type:primaryImage" alt="KPI´s en 2026" /></p>
+                
+    <h2 id="taller-de-kpis">
+      Taller de KPI´s
+    </h2>
+
+    <h3 id="motor-de-busqueda-de-googleandnbsp">
+      Motor de búsqueda de Google&nbsp;
+    </h3>
+
+  <p>
+    Aquí aprenderás más acerca de los <a href="https://taller-ads.github.io/Taller-de-Ads/la-importancia-de-entender-los-kpis-en-una-campaa-de-publicidad-en-line/">KPI´s</a> y como estos son utilizados en la vida de los mercadólogos para mejorar sus campañas de publicidad en línea.&nbsp;
+  </p>
+
+  <ul>
+    <li>Google Ads</li><li>Youtube Ads</li><li>Display Ads</li><li>Google Network Display</li>
+  </ul>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://taller-ads.github.io/Taller-de-Ads/media/posts/3/Primer-noticia-2.gif" height="1080" width="1920" alt="KPI´s en el mundo digital" >
+      
+    </figure>
+
+  <p>
+    Los KPIs (Key Performance Indicators o Indicadores Clave de Desempeño) son métricas cuantificables que las empresas usan para medir el éxito de sus estrategias y acciones, evaluando si se están alcanzando los objetivos establecidos, facilitando así la toma de decisiones y la optimización de recursos. Se aplican en diversas áreas (marketing, ventas, producción) para monitorear el progreso y la eficacia, y deben ser medibles, relevantes y periódicos.
+  </p>
+<hr class="separator separator--long-line" />
+
+    <figure class="blockquote">
+      <blockquote>Imagina que formas parte del equipo de Éxito del Cliente de tu empresa. Tu objetivo general es mejorar la atención para reducir la fuga de clientes. Una métrica importante para tu equipo es el tiempo medio de resolución de un ticket, ya que quieres asegurarte de que tu equipo responda a los tickets en un plazo de 10 horas. En este momento, tu equipo tiene un promedio de 14 horas. Un buen KPI SMART para dar seguimiento a tu progreso hacia este objetivo es: Alcanzar el tiempo promedio de resolución de tickets de 10 horas o menos al final del primer trimestre.</blockquote>
+      <figcaption>Ricardo Castillo</figcaption>
+    </figure>
+
+  <p>
+    Este KPI es específico y medible (10 horas o menos), alcanzable y realista (tu objetivo es reducir cuatro horas el tiempo promedio de resolución de tickets en tres meses), y con una duración limitada (este KPI debería lograrse al final del primer trimestre).
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>La importancia de entender los KPI´s en una campaña de publicidad en línea</title>
+        <author>
+            <name>Ricardo Castillo</name>
+        </author>
+        <link href="https://taller-ads.github.io/Taller-de-Ads/la-importancia-de-entender-los-kpis-en-una-campaa-de-publicidad-en-line/"/>
+        <id>https://taller-ads.github.io/Taller-de-Ads/la-importancia-de-entender-los-kpis-en-una-campaa-de-publicidad-en-line/</id>
+        <media:content url="https://taller-ads.github.io/Taller-de-Ads/media/posts/2/KPis.gif" medium="image" />
+            <category term="Taller de Ads x Channel Factory"/>
+            <category term="Noticias"/>
+
+        <updated>2026-01-01T21:03:11-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://taller-ads.github.io/Taller-de-Ads/media/posts/2/KPis.gif" alt="KPI´s - la importancia de entender los KPI´s en las campañas digitales" />
+                    Descubre más acerca de los KPI´s
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://taller-ads.github.io/Taller-de-Ads/media/posts/2/KPis.gif" class="type:primaryImage" alt="KPI´s - la importancia de entender los KPI´s en las campañas digitales" /></p>
+                <p><a href="https://www.youtube.com/watch?v=oYRj8zXJn3o" rel="nofollow">Descubre más acerca de los KPI´s</a></p>
+            ]]>
+        </content>
+    </entry>
+</feed>
